@@ -245,7 +245,6 @@ textarea {
   }
 }
 
-/* Базове оформлення */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background: #f4f6f8;
@@ -255,13 +254,11 @@ body {
   margin: auto;
 }
 
-/* Заголовки */
 h2, h3 {
   color: #2c3e50;
   margin-bottom: 0.5rem;
 }
 
-/* Текстова область */
 textarea {
   width: 100%;
   padding: 1rem;
@@ -278,7 +275,6 @@ textarea:focus {
   outline: none;
 }
 
-/* Кнопка */
 button {
   background-color: #2980b9;
   color: white;
@@ -296,7 +292,6 @@ button:hover {
   transform: translateY(-1px);
 }
 
-/* Вивід результатів */
 pre {
   background: #ffffff;
   padding: 1rem;
@@ -307,7 +302,6 @@ pre {
   word-wrap: break-word;
 }
 
-/* Плавний перехід кольорів */
 * {
   transition: all 0.2s ease-in-out;
 }
